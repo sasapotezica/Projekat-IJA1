@@ -72,9 +72,6 @@ button:hover {
   }
 }
 @media (max-width: 414px) {
-  form{
-    width: 100%;
-  }
   label {
     font-size: 8px;
   }
